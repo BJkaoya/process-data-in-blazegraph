@@ -26,4 +26,5 @@ Then count distinct properties and their coverage
 ```Python
 result = data['p'].value_counts()
 ```
-`1792308 triples matched, in which 5 distinct properties exist.  `
+`1792308 triples matched, in which 6 distinct properties exist. `<br>
+The results are saved in file distinct_pro_btw_items.csv. 
